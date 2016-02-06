@@ -17,14 +17,14 @@ public:
     // Mutator methods
     void setX(double newX);
     void setY(double newY);
-    void setY(double newZ);
+    void setZ(double newZ);
 
     // Accessor methods
     double getX() const;
     double getY() const;
     double getZ() const;
 
-    //return a double that approximates the distance between the two points
+    //return a double that approximates the distance between the three points
     double distanceTo(const Point&) const;
 
 };
