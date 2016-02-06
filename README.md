@@ -11,14 +11,14 @@
 
 
 *******************************************************
-*  Description of the program
+Description of the program
 *******************************************************
 
 The program uses objects to compute the distance between points and the area of a 3D triangle.  
 
 
 *******************************************************
-*  Source files
+Source files
 *******************************************************
 
 Name:  main.cpp
@@ -37,7 +37,7 @@ Name: area.cpp
    
    
 *******************************************************
-*  Circumstances of programs
+Circumstances of programs
 *******************************************************
 
    The program runs successfully.  
