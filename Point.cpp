@@ -2,7 +2,7 @@
 // Created by Tina on 2/1/2016.
 //
 
-#include <cmath>
+#include <cmath> //For sqrt function
 #include "Point.h";
 
 Point::Point()
