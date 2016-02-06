@@ -51,7 +51,7 @@ double Point::getZ() const
 }
 
 //returns a double that approximates the distance between the three points
-double Point::distanceTo(const Point&) const
+double Point::distanceTo(const Point &distance) const
 {
-    return sqrt(pow(x - other.getX(), 2) + pow(y - other.getY(), 2) + pow(z - other.getZ(), 2));
+    return sqrt(pow(x - distance.getX(), 2) + pow(y - distance.getY(), 2) + pow(z - distance.getZ(), 2));
 }
